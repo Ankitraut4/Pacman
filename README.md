@@ -3,6 +3,12 @@
 Perceptron Classifier for Digit and Pacman Data - 
 This project implements a basic Perceptron Classifier for digit and Pacman-related classification tasks. The core classifier is designed to learn from labeled training data to distinguish between different categories, using a simple linear model. The project includes separate scripts for general classification tasks, data handling, and a specific adaptation for Pacman data classification.
 
+
+![image](https://github.com/user-attachments/assets/28d2af1a-929b-4b22-a4a7-f52af37fc597)
+
+
+
+
 Project Structure
 
 perceptron.py: Contains the implementation of the PerceptronClassifier, a basic perceptron model that can be trained on any labeled dataset to make predictions. This file includes methods for training, classification, and interpretation of learned weights.
